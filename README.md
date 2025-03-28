@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on PST.NET
-- 🌱 I’m currently learning GameDev
-
-
 ### 🛠 &nbsp;Tech Stack
 OS: ![Ubuntu](https://img.shields.io/badge/-Ubuntu-141a20?style=flat&logo=ubuntu)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-Windows-141a20?style=flat&logo=windows)&nbsp;\
